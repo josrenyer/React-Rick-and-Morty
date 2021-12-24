@@ -1,0 +1,25 @@
+.card{
+	margin-bottom: 10px;
+	padding: 10px 10px;
+	border: 1px solid black;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px black;
+}
+
+.imagen-card{
+	display: block;
+	width: 80%;
+	margin: auto;
+}
+
+.card p{
+	margin-top: 3px;
+}
+
+
+@media all and (min-width: 421px){
+	.card{
+		margin-left: 10px;
+	}
+}
+

@@ -1,0 +1,22 @@
+.pagination{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.pagination ul{
+	list-style: none;
+	display: flex;
+}
+
+.pagination ul li{
+	margin-left: 5px;
+}
+
+.pagination ul li button{
+	height: 40px;
+	width: 60px;
+	border-radius: 10px;
+}

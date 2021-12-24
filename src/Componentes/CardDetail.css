@@ -1,0 +1,23 @@
+.CardDetalle{
+	margin: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border: 1px solid black;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px black;
+	text-align: center;
+}
+
+.botonDetalle{
+	margin-left: 50%;
+	margin-bottom: 5px;
+	height: 30px;
+	width: 50px;
+}
+
+@media all and (min-width: 421px){
+	.CardDetalle{
+		margin-left:25%;
+		width: 50%;
+	}
+}
