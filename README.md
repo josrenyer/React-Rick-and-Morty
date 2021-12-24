@@ -26,10 +26,10 @@ La siguiente SPA fue realizada con las siguientes tecnoligias:
 
 ![Landing](http://g.recordit.co/PS4qJmBMYf.gif)
 
-<img src="./Imagen/pantalla1.png"/>
+<img src="./Imagen/pantalla1.png"/>Home celular
 
-<img src="./Imagen/pantalla2.png"/>
+<img src="./Imagen/pantalla2.png"/>Detalle
 
-<img src="./Imagen/pantalla3.png"/>
+<img src="./Imagen/pantalla3.png"/>Home PC
 
 
