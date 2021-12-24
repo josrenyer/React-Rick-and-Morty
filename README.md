@@ -15,11 +15,11 @@ La siguiente SPA fue realizada con las siguientes tecnoligias:
 
 ### `La SPA cuenta con:`
 
--Landing principal.
--Responsividad.
--Paginacion.
--Routing.
--Consumo de API [RickandMorty](https://rickandmortyapi.com/)
+- Landing principal.
+- Responsividad.
+- Paginacion.
+- Routing.
+- Consumo de API [RickandMorty](https://rickandmortyapi.com/)
 
 
 ## Pantallas
