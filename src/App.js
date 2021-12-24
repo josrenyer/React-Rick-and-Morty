@@ -6,6 +6,7 @@ import About from "./Componentes/About";
 import "./App.css"
 import CardDetail from "./Componentes/CardDetail";
 import axios from "axios";
+import NotFound from "./Componentes/NotFound"
 
 
 
@@ -42,6 +43,7 @@ export default function App() {
       <Route exact path="/Home" element={<Home personajes={personajes} info={info} siguiente={siguiente} anterior={anterior}/>}/>
       <Route exact path="/About" element={<About/>}/>
       <Route exact path="/Personajes/:id" element={<CardDetail/>}/>
+      <Route exact path="*" element={<NotFound/>}/>
     </Routes>
   </div>;
 }
