@@ -39,7 +39,7 @@ export default function App() {
 
   return <div className="contenedor">
     <Routes>
-      <Route exact path="/" element={<Landing/>}/>
+      <Route exact path="/React-Rick-and-Morty/" element={<Landing/>}/>
       <Route exact path="/Home" element={<Home personajes={personajes} info={info} siguiente={siguiente} anterior={anterior}/>}/>
       <Route exact path="/About" element={<About/>}/>
       <Route exact path="/Personajes/:id" element={<CardDetail/>}/>
