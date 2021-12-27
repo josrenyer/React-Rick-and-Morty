@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.83565225.chunk.css",
-    "main.js": "/static/js/main.05d45fc3.chunk.js",
-    "main.js.map": "/static/js/main.05d45fc3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0217fd76.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0217fd76.js.map",
-    "static/js/2.8acedf9f.chunk.js": "/static/js/2.8acedf9f.chunk.js",
-    "static/js/2.8acedf9f.chunk.js.map": "/static/js/2.8acedf9f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.83565225.chunk.css.map": "/static/css/main.83565225.chunk.css.map",
-    "static/js/2.8acedf9f.chunk.js.LICENSE.txt": "/static/js/2.8acedf9f.chunk.js.LICENSE.txt",
-    "static/media/logo1.9adc7ba4.png": "/static/media/logo1.9adc7ba4.png",
-    "static/media/nombre.1adbd7b6.gif": "/static/media/nombre.1adbd7b6.gif",
-    "static/media/otro.09620ccf.gif": "/static/media/otro.09620ccf.gif"
+    "main.css": "/React-Rick-and-Morty/static/css/main.83565225.chunk.css",
+    "main.js": "/React-Rick-and-Morty/static/js/main.34081a3f.chunk.js",
+    "main.js.map": "/React-Rick-and-Morty/static/js/main.34081a3f.chunk.js.map",
+    "runtime-main.js": "/React-Rick-and-Morty/static/js/runtime-main.095fb42e.js",
+    "runtime-main.js.map": "/React-Rick-and-Morty/static/js/runtime-main.095fb42e.js.map",
+    "static/js/2.8acedf9f.chunk.js": "/React-Rick-and-Morty/static/js/2.8acedf9f.chunk.js",
+    "static/js/2.8acedf9f.chunk.js.map": "/React-Rick-and-Morty/static/js/2.8acedf9f.chunk.js.map",
+    "index.html": "/React-Rick-and-Morty/index.html",
+    "static/css/main.83565225.chunk.css.map": "/React-Rick-and-Morty/static/css/main.83565225.chunk.css.map",
+    "static/js/2.8acedf9f.chunk.js.LICENSE.txt": "/React-Rick-and-Morty/static/js/2.8acedf9f.chunk.js.LICENSE.txt",
+    "static/media/logo1.9adc7ba4.png": "/React-Rick-and-Morty/static/media/logo1.9adc7ba4.png",
+    "static/media/nombre.1adbd7b6.gif": "/React-Rick-and-Morty/static/media/nombre.1adbd7b6.gif",
+    "static/media/otro.09620ccf.gif": "/React-Rick-and-Morty/static/media/otro.09620ccf.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.0217fd76.js",
+    "static/js/runtime-main.095fb42e.js",
     "static/js/2.8acedf9f.chunk.js",
     "static/css/main.83565225.chunk.css",
-    "static/js/main.05d45fc3.chunk.js"
+    "static/js/main.34081a3f.chunk.js"
   ]
 }
