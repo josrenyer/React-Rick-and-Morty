@@ -37,6 +37,7 @@ export default function App() {
     getApi(urlInicial);
   },[])
 
+    console.log("informacion ",  info)
   return <div className="contenedor">
     <Routes>
       <Route exact path="/" element={<Landing/>}/>

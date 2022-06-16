@@ -21,6 +21,10 @@ La siguiente SPA fue realizada con las siguientes tecnoligias:
 - Routing.
 - Consumo de API [RickandMorty](https://rickandmortyapi.com/)
 
+## Url
+
+[![](https://img.icons8.com/flat-round/64/undefined/play--v1.png)](https://josrenyer.github.io/React-Rick-and-Morty/) Ejecutable
+
 
 ## Pantallas
 
